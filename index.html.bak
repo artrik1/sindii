@@ -62,7 +62,7 @@ ___________________________________
       <img src="" alt="" class="lydia-dp" id="imagePath" />
       <img src="img/hat.svg" alt="" class="hat" />
       <div class="wish">
-        <h3 class="wish-hbd">Selamat ulang tahun!</h3>
+        <h3 class="wish-hbd">happy birthday!</h3>
         <h5 id="wishText">wish you all the best ;)</h5>
       </div>
     </div>
